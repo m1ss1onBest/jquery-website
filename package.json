@@ -1,0 +1,23 @@
+{
+  "name": "jquery-website",
+  "version": "1.0.0",
+  "description": "Just a website",
+  "homepage": "https://github.com/m1ss1onBest/jquery-website#readme",
+  "bugs": {
+    "url": "https://github.com/m1ss1onBest/jquery-website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1ss1onBest/jquery-website.git"
+  },
+  "license": "MIT",
+  "author": "m1ss1onBest",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
